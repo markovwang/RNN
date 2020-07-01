@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d4106fa-82e7-41f0-87c3-0491f4915919" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weibo-crawler" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +51,9 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test_file">
+  <component name="RunManager" selected="Python.utils">
     <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hw4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,6 +67,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Study\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593617389738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="define some useful functions">
+      <created>1593618272416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593618272416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete some old file">
+      <created>1593618449701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593618449701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,51 +198,59 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="this is a sunxiaochuan spider by using WeiboSpyder" />
     <MESSAGE value="Null" />
     <MESSAGE value="Revert &quot;this is a sunxiaochuan spider by using WeiboSpyder&quot;&#10;&#10;This reverts commit 4b140e1398a2134464603a79901019833287cd11." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;this is a sunxiaochuan spider by using WeiboSpyder&quot;&#10;&#10;This reverts commit 4b140e1398a2134464603a79901019833287cd11." />
+    <MESSAGE value="define some useful functions" />
+    <MESSAGE value="delete some old file" />
+    <MESSAGE value="update the .idea dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the .idea dir" />
   </component>
   <component name="WindowStateProjectService">
     <state x="961" y="209" key="#Web_Browsers" timestamp="1593617607050">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="961" y="209" key="#Web_Browsers/0.0.1536.834@0.0.1536.834" timestamp="1593617607050" />
-    <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593562720500">
+    <state x="250" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593619265532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1593562720500" />
-    <state x="473" y="0" key="CommitChangelistDialog2" timestamp="1593617387264">
+    <state x="250" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1593619265532" />
+    <state x="419" y="0" key="#utils" timestamp="1593619098382">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="473" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593617387264" />
-    <state x="862" y="100" width="581" height="640" key="DiffContextDialog" timestamp="1593616933655">
+    <state x="419" y="0" key="#utils/0.0.1536.834@0.0.1536.834" timestamp="1593619098382" />
+    <state x="275" y="22" width="1003" height="790" key="CommitChangelistDialog2" timestamp="1593619436445">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="862" y="100" width="581" height="640" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1593616933655" />
-    <state x="647" y="315" key="Github.ShareDialog" timestamp="1593617798126">
+    <state x="275" y="22" width="1003" height="790" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593619436445" />
+    <state x="862" y="100" width="581" height="640" key="DiffContextDialog" timestamp="1593618932985">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1593617798126" />
-    <state width="1515" height="262" key="GridCell.Tab.0.bottom" timestamp="1593579777058">
+    <state x="862" y="100" width="581" height="640" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1593618932985" />
+    <state x="647" y="315" key="Github.ShareDialog" timestamp="1593619606216">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="262" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593579777058" />
-    <state width="1515" height="262" key="GridCell.Tab.0.center" timestamp="1593579777058">
+    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1593619606216" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1593619344141">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="262" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593579777058" />
-    <state width="1515" height="262" key="GridCell.Tab.0.left" timestamp="1593579777057">
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1593619344141">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="262" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593579777057" />
-    <state width="1515" height="262" key="GridCell.Tab.0.right" timestamp="1593579777058">
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1593619344141">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="262" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593579777058" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1593619344141">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
     <state width="1515" height="262" key="GridCell.Tab.1.bottom" timestamp="1593579777060">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -223,10 +267,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593579777059" />
-    <state x="323" y="76" width="981" height="707" key="SettingsEditor" timestamp="1593617012040">
+    <state x="323" y="76" width="981" height="707" key="SettingsEditor" timestamp="1593619282882">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="323" y="76" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593617012040" />
+    <state x="323" y="76" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593619282882" />
+    <state x="391" y="165" key="Vcs.Push.Dialog.v2" timestamp="1593618462512">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="391" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593618462512" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593617575373">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
