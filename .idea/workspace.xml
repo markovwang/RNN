@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d4106fa-82e7-41f0-87c3-0491f4915919" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sxc_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_label.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_nolabel.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weibo-crawler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hw4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weibo_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw4.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Markov_wang" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1e1UGgp1s0NjIqGw35mVZaJK1Kp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test_file">
+    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weibo-crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weibo-crawler/weibo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weibo_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weibo_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_file" />
+        <item itemvalue="Python.weibo" />
+        <item itemvalue="Python.weibo_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4106fa-82e7-41f0-87c3-0491f4915919" name="Default Changelist" comment="" />
+      <created>1593488498448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593488498448</updated>
+    </task>
+    <task id="LOCAL-00001" summary="this is a sunxiaochuan spider by using WeiboSpyder">
+      <created>1593616726656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593616726656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is a sunxiaochuan spider by using WeiboSpyder" />
+    <MESSAGE value="Null" />
+    <option name="LAST_COMMIT_MESSAGE" value="Null" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593562720500">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1593562720500" />
+    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1593617204470">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="506" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593617204470" />
+    <state x="862" y="100" width="581" height="640" key="DiffContextDialog" timestamp="1593616933655">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="862" y="100" width="581" height="640" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1593616933655" />
+    <state x="647" y="315" key="Github.ShareDialog" timestamp="1593617052367">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1593617052367" />
+    <state width="1515" height="262" key="GridCell.Tab.0.bottom" timestamp="1593579777058">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593579777058" />
+    <state width="1515" height="262" key="GridCell.Tab.0.center" timestamp="1593579777058">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593579777058" />
+    <state width="1515" height="262" key="GridCell.Tab.0.left" timestamp="1593579777057">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593579777057" />
+    <state width="1515" height="262" key="GridCell.Tab.0.right" timestamp="1593579777058">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593579777058" />
+    <state width="1515" height="262" key="GridCell.Tab.1.bottom" timestamp="1593579777060">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593579777060" />
+    <state width="1515" height="262" key="GridCell.Tab.1.center" timestamp="1593579777059">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593579777059" />
+    <state width="1515" height="262" key="GridCell.Tab.1.left" timestamp="1593579777059">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593579777059" />
+    <state width="1515" height="262" key="GridCell.Tab.1.right" timestamp="1593579777059">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593579777059" />
+    <state x="323" y="76" width="981" height="707" key="SettingsEditor" timestamp="1593617012040">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="323" y="76" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593617012040" />
+    <state x="947" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593490555018">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="947" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1593490555018" />
+    <state x="799" y="155" key="search.everywhere.popup" timestamp="1593488504255">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="799" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1593488504255" />
+  </component>
+</project>
