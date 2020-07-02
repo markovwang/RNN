@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo-crawler" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +50,30 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.utils">
+  <component name="RunManager" selected="Python.preprocess">
+    <configuration name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="hw4" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +108,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="w2v" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w2v.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,6 +181,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.preprocess" />
+        <item itemvalue="Python.w2v" />
         <item itemvalue="Python.test_file" />
         <item itemvalue="Python.weibo" />
         <item itemvalue="Python.weibo_spider" />
@@ -185,7 +228,35 @@
       <option name="project" value="LOCAL" />
       <updated>1593618449701</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update files">
+      <created>1593619723751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593619723751</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update utlis">
+      <created>1593623153001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593623153001</updated>
+    </task>
+    <task id="LOCAL-00007" summary="word2vec and it's model">
+      <created>1593656984887</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593656984887</updated>
+    </task>
+    <task id="LOCAL-00008" summary="word2vec and it's model">
+      <created>1593661579460</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593661579460</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,13 +273,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/weibo-crawler" />
+    </ignored-roots>
     <MESSAGE value="this is a sunxiaochuan spider by using WeiboSpyder" />
     <MESSAGE value="Null" />
     <MESSAGE value="Revert &quot;this is a sunxiaochuan spider by using WeiboSpyder&quot;&#10;&#10;This reverts commit 4b140e1398a2134464603a79901019833287cd11." />
     <MESSAGE value="define some useful functions" />
     <MESSAGE value="delete some old file" />
     <MESSAGE value="update the .idea dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the .idea dir" />
+    <MESSAGE value="update files" />
+    <MESSAGE value="update utlis" />
+    <MESSAGE value="word2vec and it's model" />
+    <option name="LAST_COMMIT_MESSAGE" value="word2vec and it's model" />
   </component>
   <component name="WindowStateProjectService">
     <state x="961" y="209" key="#Web_Browsers" timestamp="1593617607050">
@@ -223,10 +300,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="419" y="0" key="#utils/0.0.1536.834@0.0.1536.834" timestamp="1593619098382" />
-    <state x="275" y="22" width="1003" height="790" key="CommitChangelistDialog2" timestamp="1593619436445">
+    <state x="342" y="34" width="1003" height="790" key="CommitChangelistDialog2" timestamp="1593661578578">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="275" y="22" width="1003" height="790" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593619436445" />
+    <state x="342" y="34" width="1003" height="790" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593661578578" />
     <state x="862" y="100" width="581" height="640" key="DiffContextDialog" timestamp="1593618932985">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -235,22 +312,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="647" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1593619606216" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1593619344141">
+    <state width="815" height="213" key="GridCell.Tab.0.bottom" timestamp="1593659597799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1593619344141">
+    <state width="815" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593659597799" />
+    <state width="815" height="213" key="GridCell.Tab.0.center" timestamp="1593659597799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1593619344141">
+    <state width="815" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593659597799" />
+    <state width="815" height="213" key="GridCell.Tab.0.left" timestamp="1593659597799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1593619344141">
+    <state width="815" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593659597799" />
+    <state width="815" height="213" key="GridCell.Tab.0.right" timestamp="1593659597799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593619344141" />
+    <state width="815" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593659597799" />
     <state width="1515" height="262" key="GridCell.Tab.1.bottom" timestamp="1593579777060">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -267,14 +344,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1515" height="262" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593579777059" />
-    <state x="323" y="76" width="981" height="707" key="SettingsEditor" timestamp="1593619282882">
+    <state x="323" y="76" width="981" height="707" key="SettingsEditor" timestamp="1593653369547">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="323" y="76" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593619282882" />
-    <state x="391" y="165" key="Vcs.Push.Dialog.v2" timestamp="1593618462512">
+    <state x="323" y="76" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593653369547" />
+    <state x="391" y="165" key="Vcs.Push.Dialog.v2" timestamp="1593661582443">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="391" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593618462512" />
+    <state x="391" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593661582443" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593617575373">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -283,9 +360,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="947" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1593490555018" />
-    <state x="799" y="155" key="search.everywhere.popup" timestamp="1593488504255">
+    <state x="799" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1593659871975">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="799" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1593488504255" />
+    <state x="799" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1593659871975" />
   </component>
 </project>
