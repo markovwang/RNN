@@ -10,8 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d4106fa-82e7-41f0-87c3-0491f4915919" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="3d4106fa-82e7-41f0-87c3-0491f4915919" name="Default Changelist" comment="word2vec and it's model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
     </list>
@@ -256,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593661579460</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="word2vec and it's model">
+      <created>1593663228751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1593663228751</updated>
+    </task>
+    <task id="LOCAL-00010" summary="model updated">
+      <created>1593677197971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1593677197971</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +298,8 @@
     <MESSAGE value="update files" />
     <MESSAGE value="update utlis" />
     <MESSAGE value="word2vec and it's model" />
-    <option name="LAST_COMMIT_MESSAGE" value="word2vec and it's model" />
+    <MESSAGE value="model updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="model updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="961" y="209" key="#Web_Browsers" timestamp="1593617607050">
@@ -300,10 +314,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="419" y="0" key="#utils/0.0.1536.834@0.0.1536.834" timestamp="1593619098382" />
-    <state x="342" y="34" width="1003" height="790" key="CommitChangelistDialog2" timestamp="1593661578578">
+    <state x="342" y="34" width="1003" height="790" key="CommitChangelistDialog2" timestamp="1593677197138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="342" y="34" width="1003" height="790" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593661578578" />
+    <state x="342" y="34" width="1003" height="790" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593677197138" />
     <state x="862" y="100" width="581" height="640" key="DiffContextDialog" timestamp="1593618932985">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -348,10 +362,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="323" y="76" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593653369547" />
-    <state x="391" y="165" key="Vcs.Push.Dialog.v2" timestamp="1593661582443">
+    <state x="391" y="165" key="Vcs.Push.Dialog.v2" timestamp="1593677199929">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="391" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593661582443" />
+    <state x="391" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1593677199929" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593617575373">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
